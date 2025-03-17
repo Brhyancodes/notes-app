@@ -1,5 +1,5 @@
 import { View, Text,StyleSheet } from 'react-native';
-const NoteSxreen = () => {
+const NoteScreen = () => {
     return (
         <View style={styles.container}>
             <Text>Note Screen</Text>
@@ -15,4 +15,4 @@ const styles = StyleSheet.create({
         backgroundColor: '#f8f9fa'
     },
 });
-export default NoteSxreen;
+export default NoteScreen;
