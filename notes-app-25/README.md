@@ -11,7 +11,7 @@ A simple **React Native Notes App** built as a practice project to improve my Re
 - ☁️ *(Upcoming)* Cloud sync with Firebase
 - 🌙 *(Upcoming)* Dark mode
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack :
 
 - **React Native**
 - **React Navigation** for screen navigation
