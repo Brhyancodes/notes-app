@@ -57,7 +57,7 @@ If you encounter issues while setting up or running the app:
 
 - 🔍 Add search functionality
 - ☁️ Sync notes with Firebase
-- 🌙 Implement dark mode
+- 🌙 Implement Dark Mode
 - 📋 Support Markdown formatting in notes
 - 🔔 Add reminder notifications
 
