@@ -6,7 +6,7 @@ A simple **React Native Notes App** built as a practice project to improve my Re
 
 - 📝 Create, edit, and delete notes
 - 💾 Save notes locally using AsyncStorage
-- 🎨 Clean and simple UI
+- 🎨 Clean and simple User Interface
 - 🔍 *(Upcoming)* Search functionality
 - ☁️ *(Upcoming)* Cloud sync with Firebase
 - 🌙 *(Upcoming)* Dark mode
