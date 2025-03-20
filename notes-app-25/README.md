@@ -53,7 +53,7 @@ If you encounter issues while setting up or running the app:
 
 - If the app crashes on startup, verify that all dependencies are installed correctly.
 
-## 🔮 Future Enhancements
+## 🔮 Future Enhancements include:
 
 - 🔍 Add search functionality
 - ☁️ Sync notes with Firebase
