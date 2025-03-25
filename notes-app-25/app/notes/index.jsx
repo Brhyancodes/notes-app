@@ -1,8 +1,26 @@
-import { View, Text,StyleSheet } from 'react-native';
+import { useState } from 'react';
+import { View, Text, StyleSheet,FlatList } from 'react-native';
 const NoteScreen = () => {
+    const [notes, setNotes] = useState([
+        { id: 1, title: 'Note 1' },
+        { id: 2, title: 'Note 2' },
+        { id: 3, title: 'Note 3' },
+    ]);
     return (
         <View style={styles.container}>
-            <Text>Note Screen</Text>
+            {/* <Text>Note Screen</Text> */}
+            <FlatList
+                data={notes}
+                keyExtractor={(item) => item.id}
+                renderItem={({ item }) => (
+                    <View style={styles.noteItem}>
+                        <Text style={styles.noteText}>{item.title}</Text>
+                        <Text>{item.content}</Text>
+                    </View>
+                )}
+            
+            
+            />
         </View>
     )
 }
