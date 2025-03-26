@@ -63,7 +63,7 @@ If you encounter issues while setting up or running the app:
 
 ## 🤝 Contributing
 
-This is a personal practice project, but feel free to fork it, suggest improvements, or submit pull requests.Contributions are welcome!
+This is a personal practice project, but feel free to fork it, suggest improvements, or submit pull requests.Contributions are much welcome!
 
 ## 📜 License
 
