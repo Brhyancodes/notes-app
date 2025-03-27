@@ -1,6 +1,6 @@
 # 📝 Notes App
 
-A simple **React Native Notes App** built as a practice project to improve my React Native skills. The app allows users to create, edit, and delete notes while storing them locally on the device.
+A simple **React Native Notes App** built as a practice project to improve my React Native skills in Mobile Development. The app allows users to create, edit, and delete notes while storing them locally on the device.
 
 ## 🚀 Features
 
