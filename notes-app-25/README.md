@@ -9,7 +9,7 @@ A simple **React Native Notes App** built as a practice project to improve my Re
 - 🎨 Clean and simple User Interface
 - 🔍 *(Upcoming)* Search functionality
 - ☁️ *(Upcoming)* Cloud sync with Firebase
-- 🌙 *(Upcoming)* Dark mode
+- 🌙 *(Upcoming)* Dark mode to switch between light and Dark mode.
 
 ## 🛠️ Tech Stack :
 
