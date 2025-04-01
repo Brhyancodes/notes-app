@@ -15,7 +15,7 @@ A simple **React Native Notes App** built as a practice project to improve my Re
 
 - **React Native**
 - **React Navigation** for screen navigation
-- **AsyncStorage** for local storage
+- **AsyncStorage** for local storage in the meantime
 - **Expo** for development environment
 
 ## 📦 Installation & Setup
