@@ -18,7 +18,7 @@ A simple **React Native Notes App** built as a practice project to improve my Re
 - **AsyncStorage** for local storage in the meantime
 - **Expo** for development environment
 
-## 📦 Installation & Setup
+## 📦 Installation and Setup
 
 # Clone the Repository
 git clone https://github.com/your-username/notes-app.git
