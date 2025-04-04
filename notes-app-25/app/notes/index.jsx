@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { View, Text, StyleSheet,FlatList } from 'react-native';
+import { View, Text, StyleSheet,FlatList,TouchableOpacity } from 'react-native';
 const NoteScreen = () => {
     const [notes, setNotes] = useState([
         { id: 1, title: 'Note 1' },
@@ -21,6 +21,9 @@ const NoteScreen = () => {
             
             
             />
+            <TouchableOpacity>
+                +Add Note
+            </TouchableOpacity>
         </View>
     )
 }
