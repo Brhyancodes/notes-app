@@ -21,9 +21,12 @@ const NoteScreen = () => {
             
             
             />
-            <TouchableOpacity>
-                +Add Note
-            </TouchableOpacity>
+             <TouchableOpacity
+        style={styles.addButton}
+        onPress={() => setModalVisible(true)}
+      >
+        <Text style={styles.addButtonText}>+ Add Note</Text>
+      </TouchableOpacity>
         </View>
     )
 }
